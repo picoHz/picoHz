@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=picoHz&theme=transparent)
